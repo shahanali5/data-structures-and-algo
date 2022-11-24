@@ -12,7 +12,6 @@ public class Traversing {
 
         Node A = new Node(); Node B = new Node();
         Node C = new Node(); Node D = new Node();
-        
         Z.start = A;
         A.INFO = 10; A.LINK = B;
         B.INFO = 20; B.LINK = C;
